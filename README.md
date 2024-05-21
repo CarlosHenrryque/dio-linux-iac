@@ -1,5 +1,5 @@
-#Projeto de IaC - Curso Linux Dio.me
-## Esse script visa criar e configurar de forma automatizada os seguintes itens.
+##Projeto de IaC - Curso Linux Dio.me
+### Esse script visa criar e configurar de forma automatizada os seguintes itens.
 ### - Usuários
 ### - Grupos
 ### - Diretórios
